@@ -3,4 +3,4 @@
 	url = https://github.com/MIT-SPARK/Kimera-RPGO.git
 [submodule "experiments/thirdparty/dcsam"]
 	path = experiments/thirdparty/dcsam
-	url = https://github.com/MarineRoboticsGroup/dcsam.git
+	url = https://github.com/MarineRoboticsGroup/dcsam
