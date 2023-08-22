@@ -32,7 +32,7 @@ class Method {
   /** INTERFACE **/
  public:
   /// @brief Sets the mode of the method (RISAM only)
-  virtual void set_mode(size_t mode);
+  virtual void set_mode(size_t mode) {};
 
   /// @brief Run initialization code, potentially using non-default parameters from file
   virtual void init() = 0;
