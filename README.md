@@ -16,7 +16,7 @@
     * GTSAM: Tag=4.2a8, exact hash=9902ccc0a4f62123e91f057babe3612a95c15c20
     * KimeraRPGO: exact hash=8c5e163ba38345ff583d87403ad53bf966c0221b
     * dcsam: exact hash=b7f62295eec201fb00ee6d1d828fa551ac1f4bd7
-    * GCC: 11.4.0 (**!! CURRENTLY ONLY WORKS WITH CMake "RELEASE" MODE**)
+    * GCC: 11.4.0
 * These should be checked out when the git submodules are initialized, but are included here for completeness
 
 * GTSAM 
