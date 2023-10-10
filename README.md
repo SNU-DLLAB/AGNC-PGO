@@ -2,6 +2,8 @@
 
 Presented in [IROS 2023 Workshop "ROBOTIC PERCEPTION AND MAPPING: FRONTIER VISION & LEARNING TECHNIQUES"](https://sites.google.com/view/ropem/).
 
+[Paper arXiv link](https://arxiv.org/abs/2308.11444)
+
 <p align="center">
 <img src="media/figure.png"
     alt="AGNC-PGO might be around 20% faster than riSAM" 
