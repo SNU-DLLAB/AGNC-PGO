@@ -35,7 +35,7 @@ Presented in [IROS 2023 Workshop "ROBOTIC PERCEPTION AND MAPPING: FRONTIER VISIO
     * If you `install` GTSAM this should be automatic
     * If you are working with a local build of GTSAM set `GTSAM_DIR` and `GTSAM_INCLUDE_DIR` to the appropriate directories.
 * Build AGNC-PGO with riSAM
-    * `cd risam`
+    * `cd AGNC-PGO`
     * `mkdir build`
     * `cd build`
     * `cmake ..`
