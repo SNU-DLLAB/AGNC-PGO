@@ -1,8 +1,7 @@
 # Adaptive Graduated Non-Convexity for Pose Graph Optimization (AGNC-PGO)
 
 Presented in [IROS 2023 Workshop "ROBOTIC PERCEPTION AND MAPPING: FRONTIER VISION & LEARNING TECHNIQUES"](https://sites.google.com/view/ropem/).
-
-[Paper arXiv link](https://arxiv.org/abs/2308.11444)
+[![arXiv](https://img.shields.io/badge/cs.RO-2308.11444-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2308.11444)
 
 <p align="center">
 <img src="media/figure.png"
